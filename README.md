@@ -35,3 +35,30 @@ cd fake-news-detection
 
 # Install required packages
 pip install -r requirements.txt
+
+## 🧠 Models
+
+### 1. CNN + LSTM (Keras / TensorFlow)
+- Word Embeddings  
+- Convolution + Pooling layers  
+- Bi-directional LSTM  
+- Fully connected + Dropout  
+
+### 2. BERT (HuggingFace Transformers + PyTorch)
+- Tokenization with **bert-base-uncased**  
+- Fine-tuning on news dataset  
+- Optimization with **AdamW** and **learning rate scheduler**  
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages**: Python  
+
+- **Libraries**:  
+  - **NLP**: NLTK, Scikit-learn, HuggingFace Transformers  
+  - **Deep Learning**: TensorFlow, PyTorch  
+  - **Data Handling**: Pandas, NumPy  
+  - **Visualization**: Matplotlib, Seaborn  
+  - **Imbalance Handling**: imbalanced-learn (SMOTE)  
+
