@@ -62,6 +62,4 @@ pip install -r requirements.txt
   - **Visualization**: Matplotlib, Seaborn  
   - **Imbalance Handling**: imbalanced-learn (SMOTE)  
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hdyzute/nlp-fake-news-classifier/main/demo.png" width="600">
-</p>
+![Demo](https://raw.githubusercontent.com/hdyzute/nlp-fake-news-classifier/main/demo.png)
