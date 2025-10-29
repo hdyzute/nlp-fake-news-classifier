@@ -62,6 +62,4 @@ pip install -r requirements.txt
   - **Visualization**: Matplotlib, Seaborn  
   - **Imbalance Handling**: imbalanced-learn (SMOTE)  
 
-![Demo của app](demo.png)
-
-Cập nhật: thêm dòng cuối README.
+![Demo](https://raw.githubusercontent.com/hdyzute/nlp-fake-news-classifier/8b68227048a8826b755b31b336f161bb35a7780a/demo.png)
