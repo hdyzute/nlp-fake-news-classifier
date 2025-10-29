@@ -47,7 +47,7 @@ pip install -r requirements.txt
 ### 2. BERT (HuggingFace Transformers + PyTorch)
 - Tokenization with **bert-base-uncased**  
 - Fine-tuning on news dataset  
-- Optimization with **AdamW** and **learning rate scheduler**  
+- Optimization with **AdamW** and **learning rate scheduler**
 
 ---
 
@@ -63,3 +63,5 @@ pip install -r requirements.txt
   - **Imbalance Handling**: imbalanced-learn (SMOTE)  
 
 ![Demo của app](demo.png)
+
+Cập nhật: thêm dòng cuối README.
