@@ -63,3 +63,14 @@ pip install -r requirements.txt
   - **Imbalance Handling**: imbalanced-learn (SMOTE)  
 
 ![Demo](https://raw.githubusercontent.com/hdyzute/nlp-fake-news-classifier/8b68227048a8826b755b31b336f161bb35a7780a/demo.png)
+
+![Demo của app](https://raw.githubusercontent.com/hdyzute/nlp-fake-news-classifier/main/demo.png)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hdyzute/nlp-fake-news-classifier/main/demo.png" alt="Demo app" width="600">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hdyzute/nlp-fake-news-classifier/8b68227048a8826b755b31b336f161bb35a7780a/demo.png" alt="Demo app" width="600">
+</p>
+
