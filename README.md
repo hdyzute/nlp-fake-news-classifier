@@ -2,6 +2,8 @@
 An NLP project for detecting fake news articles using classical ML models and BERT.
 # 📰 Fake News Detection with NLP
 
+![Project Demo](https://raw.githubusercontent.com/hdyzute/nlp-fake-news-classifier/refs/heads/main/demo.png)
+
 ## 📌 Overview
 This project aims to build a **Fake News Detection system** using **Natural Language Processing (NLP)** techniques.  
 We implemented both **classical deep learning models (CNN + LSTM)** and **state-of-the-art Transformer models (BERT)** to classify news articles as **True (1)** or **Fake (0)**.
